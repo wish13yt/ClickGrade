@@ -1,0 +1,2 @@
+# ClickTracker
+Tracks your clicks.

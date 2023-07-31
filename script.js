@@ -33,5 +33,7 @@ window.addEventListener('DOMContentLoaded', function() {
     } else {
       grade.textContent = "F";
     }
+  } else if (time <= 20 && 50 clicks >= 50) {
+    grade.textContent = "ur fast"
   }
 });

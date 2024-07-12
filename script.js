@@ -30,6 +30,8 @@ window.addEventListener('DOMContentLoaded', function() {
       grade.textContent = "B";
     } else if (time <= 60 && clicks >= 50) {
       grade.textContent = "C";
+    } else if (time <= 15 && clicks >= 55) {
+      grade.textContent = "Sick!!";
     } else {
       grade.textContent = "F";
     }

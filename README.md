@@ -1,2 +1,2 @@
-# https://wishdog2013.github.io/ClickGrade/
+# ClickGrade
 Grades you on how fast you click!
